@@ -35,11 +35,11 @@ puzzle = [
 ```
 ## Running the Solver
 
-### 1. Clone or download the project.
+# 1. Clone or download the project.
 
-### 2. Open sudoku_solver.py.
+# 2. Open sudoku_solver.py.
 
-### 3. Run the script:
+# 3. Run the script:
 
 ```bash
 python sudoku_solver.py
