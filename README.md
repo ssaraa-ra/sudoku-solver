@@ -41,8 +41,6 @@ Open sudoku_solver.py.
 Run the script:
 
 ```bash
-Copy
-Edit
 python sudoku_solver.py
 ```
 It will output the solved puzzle (if solvable) in the terminal.
