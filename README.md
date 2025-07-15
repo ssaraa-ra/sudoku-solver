@@ -18,7 +18,7 @@ Each empty cell (represented as `0`) is tested with numbers `1-9`, skipping valu
 
 ---
 
-## 📥 Example Puzzle (inside the code)
+## Example Puzzle (inside the code)
 
 ```python
 puzzle = [
@@ -34,11 +34,12 @@ puzzle = [
 ]
 ```
 ## Running the Solver
-Clone or download the project.
 
-Open sudoku_solver.py.
+### 1. Clone or download the project.
 
-Run the script:
+### 2. Open sudoku_solver.py.
+
+### 3. Run the script:
 
 ```bash
 python sudoku_solver.py
